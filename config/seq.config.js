@@ -1,11 +1,11 @@
 const { Sequelize } = require("sequelize");
 const sequelize = new Sequelize(
-  "admin_5starxxxhkut",
-  "5starxxxhkut",
-  "4p_vzU913",
+  "administrator_5starxxxcm",
+  "administrator_5starxxxcm",
+  "5GxzxY9!rV14",
   {
     dialect: "mysql",
-    host: "103.180.163.173",
+    host: "103.120.176.66",
     logging: false,
   }
 );
